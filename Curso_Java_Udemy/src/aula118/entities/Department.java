@@ -1,8 +1,7 @@
-package entities;
+package aula118.entities;
 
 public class Department {
-	
-	private String name;
+private String name;
 	
 	public Department() {
 			
@@ -20,7 +19,6 @@ public class Department {
 		this.name = name;
 	}
 
-	
 	
 	
 }
